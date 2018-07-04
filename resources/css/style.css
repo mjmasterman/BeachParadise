@@ -1,0 +1,10 @@
+hi, h2, h3, p, ol, li {
+  font-family: "Helvetica"; "sans-serif";
+}
+
+h1, h2 {
+  color: darkgreen;
+}
+h3 {
+  color: seagreen;
+}
